@@ -1,3 +1,6 @@
 spring:
   application:
     name: eureka-server
+eureka:
+  server:
+    enable-self-preservation: false
